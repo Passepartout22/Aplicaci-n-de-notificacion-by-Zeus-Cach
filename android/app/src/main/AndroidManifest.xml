@@ -2,7 +2,7 @@
     package="com.zeuscach.pushapp">
    <application
         android:label="push_app_z"
-        android:name="${applicationName}"
+        android:name=".Application"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
