@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.push_app_z">
+    package="com.zeuscach.pushapp">
    <application
         android:label="push_app_z"
         android:name="${applicationName}"
